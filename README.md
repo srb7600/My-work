@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @srb7600
+- 👋 Hi, I’m Saurabh. SRB in short.
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and Machine Learning
+- 💻 QA by profession
 - 📫 My email is saurabh7600@gmail.com
 
 <!---
