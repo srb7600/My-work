@@ -1,18 +1,18 @@
 from Calculator import art
 
-
+# Addition function
 def add(num1, num2):
     return num1 + num2
 
-
+# Subtraction sunction
 def subtract(num1, num2):
     return num1 - num2
 
-
+# Multiplication function
 def multiply(num1, num2):
     return num1 * num2
 
-
+# Division function
 def divide(num1, num2):
     return num1 / num2
 
@@ -24,6 +24,7 @@ operations = {
     "/": divide,
 }
 
+# Calculator function
 def calculator():
     print(art.logo)
     should_accumulate = True
@@ -43,12 +44,12 @@ def calculator():
             num1 = answer
         else:
             should_accumulate = False
-            print("\n" * 20)
-            calculator()
+            print("\nThank you for using the calculator.")
+            #calculator()
 
 
 calculator()
-def add(num1, num2):
-    return num1 + num2
+#def add(num1, num2):
+  #  return num1 + num2
 
 
