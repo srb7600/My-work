@@ -1,20 +1,20 @@
 from Calculator import art
 
 
-def add(n1, n2):
-    return n1 + n2
+def add(num1, num2):
+    return num1 + num2
 
 
-def subtract(n1, n2):
-    return n1 - n2
+def subtract(num1, num2):
+    return num1 - num2
 
 
-def multiply(n1, n2):
-    return n1 * n2
+def multiply(num1, num2):
+    return num1 * num2
 
 
-def divide(n1, n2):
-    return n1 / n2
+def divide(num1, num2):
+    return num1 / num2
 
 
 operations = {
@@ -51,7 +51,7 @@ def calculator():
 
 
 calculator()
-def add(n1, n2):
-    return n1 + n2
+def add(num1, num2):
+    return num1 + num2
 
 
