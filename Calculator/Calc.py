@@ -1,4 +1,4 @@
-import art
+from Calculator import art
 
 
 def add(n1, n2):
