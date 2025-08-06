@@ -16,16 +16,13 @@ def multiply(num1, num2):
 def divide(num1, num2):
     return num1 / num2
 
-
+# Define dictionary for all mathematical operations
 operations = {
     "+": add,
     "-": subtract,
     "*": multiply,
     "/": divide,
 }
-
-# print(operations["*"](4, 8))
-
 
 def calculator():
     print(art.logo)
